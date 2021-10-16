@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/calci/static/css/main.d36ff457.chunk.css",
+    "main.js": "/calci/static/js/main.19aadbd6.chunk.js",
+    "main.js.map": "/calci/static/js/main.19aadbd6.chunk.js.map",
+    "runtime-main.js": "/calci/static/js/runtime-main.2c755d76.js",
+    "runtime-main.js.map": "/calci/static/js/runtime-main.2c755d76.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/calci/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9f1dc74c.chunk.js": "/calci/static/js/2.9f1dc74c.chunk.js",
+    "static/js/2.9f1dc74c.chunk.js.map": "/calci/static/js/2.9f1dc74c.chunk.js.map",
+    "static/js/3.e648a87f.chunk.js": "/calci/static/js/3.e648a87f.chunk.js",
+    "static/js/3.e648a87f.chunk.js.map": "/calci/static/js/3.e648a87f.chunk.js.map",
+    "index.html": "/calci/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/calci/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.d36ff457.chunk.css.map": "/calci/static/css/main.d36ff457.chunk.css.map",
+    "static/js/2.9f1dc74c.chunk.js.LICENSE.txt": "/calci/static/js/2.9f1dc74c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/calci/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c755d76.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9f1dc74c.chunk.js",
+    "static/css/main.d36ff457.chunk.css",
+    "static/js/main.19aadbd6.chunk.js"
+  ]
+}
